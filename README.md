@@ -5,3 +5,4 @@
 #### Python ofc
 #### discord python package installed
 #### half a braincell gl
+##### dont dm for help
