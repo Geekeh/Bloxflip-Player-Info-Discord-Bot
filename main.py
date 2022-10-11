@@ -3,7 +3,7 @@ from discord import app_commands
 import cloudscraper
 import requests
 
-server_id = 'server id'
+server_id = replace_with_server_id
 scraper = cloudscraper.create_scraper()
 
 class aclient(discord.Client):
