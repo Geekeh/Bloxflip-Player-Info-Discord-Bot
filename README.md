@@ -6,3 +6,4 @@
 #### discord python package installed
 #### half a braincell gl
 ##### dont dm for help
+discord.gg/juicy
